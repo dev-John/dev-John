@@ -3,7 +3,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Jonatas</h1>
 <p align = "justify">Fullstack developer, Node + React + Redux + Automated tests + CI/CD </p>
 
-I currently work at [Kroton Educacional](https://www.kroton.com.br)
+I currently work at [Venturus](https://venturus.org.br/)
 
 I'm learning at the moment **AWS and Docker**
 
