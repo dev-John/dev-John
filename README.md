@@ -1,6 +1,6 @@
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=dev-John" alt="dev-John" /></p> -->
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Jonatas</h1>
+<h1 align = "justify"> Hi, I am Jonatas</h1>
 <p align = "justify">Fullstack developer, Node + React + Redux + Automated tests + CI/CD </p>
 
 I currently work at [Venturus](https://venturus.org.br/)
