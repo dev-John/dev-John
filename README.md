@@ -28,6 +28,6 @@ I'm learning at the moment **AWS and Docker**
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dev-John&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=dev-John&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-John&hide=TeX&layout=compact)
 
