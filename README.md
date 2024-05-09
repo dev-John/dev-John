@@ -5,7 +5,7 @@
 
 I currently work at [Venturus](https://venturus.org.br/)
 
-I'm learning at the moment **AWS and Docker**
+I'm learning at the moment **AWS and DevOps stacks**
 
 ## 🚀💻 Technologies & Tools
 
